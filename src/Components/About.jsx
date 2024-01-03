@@ -8,7 +8,7 @@ import DoneIcon from '@mui/icons-material/Done';
 
 function Card() {
     return (
-        <div className='max-h-[17rem] max-w-[21rem]  bg-violet-100 p-3 md:p-6 space-y-4 rounded-lg'>
+        <div className='max-h-[19rem] max-w-[21rem]  bg-violet-100 p-3 md:p-6 space-y-4 rounded-lg'>
             <div className=''>
                 <h3 className='font-semibold  '>Course fees</h3>
                 <p className=' text-2xl font-bold'><span><CurrencyRupeeIcon/></span>5,000</p>
